@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ITMAgent")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cac11b89fc55a433f4ce64b458a2b09cfe0bba4e")]
 [assembly: System.Reflection.AssemblyProductAttribute("ITMAgent")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ITMAgent")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
